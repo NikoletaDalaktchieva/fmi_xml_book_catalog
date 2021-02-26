@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
+    <books>
+            
+    
+        <book>
+            <title>Harry Potter and the Philosopher's Stone</title>
+            <cover>..\images\covers\harry_potter_and_the_philosophers_stone_eng.jpg</cover>
+            <author>J. K. Rowling; </author>
+            <genre>action; </genre>
+        </book>
+            
+    
+        <book>
+            <title>The Other Side of the Sky</title>
+            <cover>..\images\covers\the_other_side_of_the_sky.jpg</cover>
+            <author>Amie Kaufman; Meagan Spooner; </author>
+            <genre>romantic; fantasy; </genre>
+        </book>
+            
+    
+        <book>
+            <title>1984</title>
+            <cover>..\images\covers\1984.jpg</cover>
+            <author>Джордж Оруел; </author>
+            <genre>novel; </genre>
+        </book>
+        
+    </books>
+</rss>

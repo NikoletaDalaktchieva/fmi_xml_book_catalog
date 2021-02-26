@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE books SYSTEM "book.dtd">
+<books>
+    <book>
+        <book_header>
+            <book_name>Среднощно слънце (Здрач)</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\srednoshtno-slantse-zdrach-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Стефани Майър прави своето триумфално завръщане в света на сагата „Здрач“ с дългоочаквания и обвит в мистификации роман „Среднощно слънце“: емблематичната любовна история на Бела и Едуард, този път разказана от гледната точка на вампира.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>896</pages>
+            <cover_type type="hard"/>
+            <genres>
+                <genre name="fantasy"/>
+                <genre name="horror"/>
+                <genre name="romantic"/>
+            </genres>
+            <publisher>Егмонт</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Стефани Майър</author_name>
+                    <biography>Стефани Майър е родена на Бъдни вечер 1973 г. в Хартфорд, Кънектикът, в семейството на Стивън и Синди Морган. Има две сестри – Емили и Хейди – и трима братя – Сет, Пол и Джейкъб, като Стефани е второто от момичетата, а момчетата са по-малки от тях. Принадлежи към Църквата на Иисус Христос на светиите от последните дни (мормоните).</biography>
+                    <publishes_book>15</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="24" month="12" year="1973"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Силата на Сянката (Колелото на времето 4)</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\silata-na-syankata-koleloto-na-vremeto-4-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Пищна, интелигентно замислена сага. „Колелото на времето“ е едно страхотно забавление, наситено с уникални събития и герои.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>880</pages>
+            <cover_type type="soft"/>
+            <rating>4.53</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Бард</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Робърт Джордан</author_name>
+                    <biography>Джеймс Оливър Ригни-младши (на английски: James Oliver Rigney, Jr.), по-известен с псевдонима Робърт Джордан (на англ. Robert Jordan), е американски писател, най-известен с фентъзи поредицата „Колелото на времето“. Публикува и под псевдонимите Джаксън О'Райли (на англ. Jackson O'Reilly) и Рийган О`Нийл (на англ. Reagan O'Neal).</biography>
+                    <publishes_book>14</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="17" month="10" year="1948"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Змейова песен</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\zmeyova-pesen-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Злото се въздига, започва втората война в магьосническия свят и Хари Потър естествено е в центъра ѝ. Тайната на могъществото на Волдемор ще бъде разкрита и пътят за разгрома му - очертан. Хари ще трбява да реши дали ще го поеме, защото веднъж тръгнал по него, връщане назад няма.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>294</pages>
+            <cover_type type="soft"/>
+            <rating>4.66</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Gaiana Book and Art Studio</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Галина Димитрова</author_name>
+                    <biography>-</biography>
+                    <publishes_book>2</publishes_book>
+                    <nationality>Bulgarian</nationality>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+</books>

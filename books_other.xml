@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE books SYSTEM "book.dtd">
+<books>
+    <book>
+        <book_header>
+            <book_name>Цар Плъх</book_name>
+            <price>20.00</price>
+            <cover_path path="..\images\covers\tsar-plah-31.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>
+                Страници, които надникват в живота на седем жени по време на войната - любими, майки и съпруги на мъжете в лагера. Може би навремето са решили, че не е подходящо един шокиращ, неприличащ на никой друг роман за борбата за оцеляване да включва също толкова шокиращи истории за жени.</summary>
+            <publish_date>
+                <date year="2009"/>
+            </publish_date>
+            <pages>498</pages>
+            <cover_type type="hard"/>
+            <genres>
+                <genre name="drama"/>
+                <genre name="history"/>
+                <genre name="modern"/>
+            </genres>
+            <publisher>Сиела</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Джеймс Клавел</author_name>
+                    <biography>Джеймс Клавел, роден Чарълз Едмънд дьо Мареск дьо Клавел, е британско-американски писател и филмов сценарист, известен най-вече със своите романи „Шогун“ и „Цар Плъх“ и филми като „Голямото бягство“ от 1963 г.</biography>
+                    <publishes_book>11</publishes_book>
+                    <nationality>Australian</nationality>
+                    <birth_day>
+                        <date day="10" month="10" year="1921"/>
+                    </birth_day>
+                    <death_day>
+                        <date day="7" month="9" year="1994"/>
+                    </death_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Fire and Blood</book_name>
+            <price>20.90</price>
+            <cover_path path="..\images\covers\fire-and-blood-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Centuries before the events of A Game of Thrones, House Targaryen - the only family of dragonlords to survive the Doom of Valyria - took up residence on Dragonstone. Fire and Blood begins their tale with the legendary Aegon the Conqueror.</summary>
+            <publish_date>
+                <date year="2020"/>
+            </publish_date>
+            <pages>752</pages>
+            <cover_type type="soft"/>
+            <rating>4.98</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Bantam</publisher>
+            <language name = "english"/>
+            <authors>
+                <author>
+                    <author_name>George R. R. Martin</author_name>
+                    <biography>George Raymond Richard Martin[1] (born George Raymond Martin; September 20, 1948),[2] also known as GRRM,[3] is an American novelist and short story writer, screenwriter, and television producer. He is the author of the series of epic fantasy novels A Song of Ice and Fire, which was adapted into the Emmy Award-winning HBO series Game of Thrones (2011–2019).</biography>
+                    <publishes_book>12</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="20" month="9" year="1948"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Крадец в сенките</book_name>
+            <price>4.80</price>
+            <cover_path path="..\images\covers\kradets-v-senkite-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Поредицата "Тайните на Мейдън Лейн" притежава едно особено обаяние... чудото на любовта, вплетено ведно със страст, неповторими сюжетни линии и незабравими образи.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>304</pages>
+            <cover_type type="soft"/>
+            <rating>4.66</rating>
+            <genres>
+                <genre name="romantic"/>
+            </genres>
+            <publisher>СББ Медиа</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Елизабет Хойт</author_name>
+                    <biography>Преведено от английски-Елизабет Хойт е името на Нанси М. Фини. Хойт е автор на бестселъри в Ню Йорк Таймс за исторически романс. Тя също пише съвременна романтика под името Джулия Харпър. Сега тя живее в централен Илинойс със съпруга си и двете си деца.</biography>
+                    <publishes_book>7</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="21" month="11" year="1970"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+</books>

@@ -1,0 +1,35 @@
+<?xml version= "1.0"encoding="UTF-8"?>
+<books>
+  <book>
+    <book_header>
+      <book_name>Book name</book_name>
+      <price>Price</price>
+      <cover path="../path"/>
+    </book_header>
+    <book_details>
+      <summary>Summary text</summary>
+      <publish_date>
+        <date day="2" month="10" year="1989"/>
+      </publish_date>
+      <pages>234</pages>
+      <cover_type type="soft"/>
+      <rating>4.44</rating>
+      <publisher>publisher</publisher>
+      <language name="bg"/>
+      <genres>
+        <genre name="action"/>
+      </genres>
+      <authors>
+        <author>
+          <author_name>Author name</author_name>
+          <biography>biography</biography>
+          <publishes_book>publishes_book</publishes_book>
+          <nationality>nationality</nationality>
+          <birth_day>
+            <date day="23" month="5" year="1987"/>
+          </birth_day>
+        </author>
+      </authors>
+    </book_details>
+  </book>
+</books>

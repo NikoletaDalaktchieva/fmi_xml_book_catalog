@@ -1,0 +1,83 @@
+/* entire container, keeps perspective */
+.flip-container {
+  perspective: 1000px;
+}
+/* flip the pane when hovered */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+  transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+  position: relative;
+  float: left;
+}
+
+.flip-container{
+  width: 12rem;
+  height: 25rem;
+}
+
+.front, .back{
+  border: 0.1rem solid #ccc;
+  width: 11rem;
+  height:24rem;
+  margin: 0.5rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* flip speed goes here */
+.flipper {
+  transition: 0.6s;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+  z-index: 2;
+  /* for firefox 31 */
+  transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+  transform: rotateY(180deg);
+}
+
+.front img {
+  width: 100%;
+  height: auto;
+}
+
+.img_div {
+  height: 17rem;
+}
+
+.text {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+#book_name {
+  height: 2rem;
+}
+
+.long_text {
+  padding: 0.5rem;
+  height: 20rem;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: small;
+}

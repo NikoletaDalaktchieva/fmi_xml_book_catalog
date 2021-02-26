@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE books SYSTEM "book.dtd">
+<books>
+    <book>
+        <book_header>
+            <book_name>Harry Potter and the Philosopher's Stone</book_name>
+            <price>18.90</price>
+            <cover_path path="..\images\covers\harry_potter_and_the_philosophers_stone_eng.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Ten-year-old Harry Potter is an orphan who lives in the fictional London suburb of Little Whinging, Surrey, with the Dursleys: his uncaring Aunt Petunia, loathsome Uncle Vernon, and spoiled cousin Dudley. The Dursleys barely tolerate Harry, and Dudley bullies him. One day Harry is astonished to receive a letter addressed to him in the cupboard under the stairs (where he sleeps). Before he can open the letter, however, Uncle Vernon takes it. Letters for Harry subsequently arrive each day, in increasing numbers, but Uncle Vernon tears them all up, and finally, in an attempt to escape the missives, the Dursleys go to a miserable shack on a small island. On Harry’s 11th birthday, a giant named Hagrid arrives and reveals that Harry is a wizard and that he has been accepted at the Hogwarts School of Witchcraft and Wizardry. He also sheds light on Harry’s past, informing the boy that his parents, a wizard and a witch, were killed by the evil wizard Voldemort and that Harry acquired the lightning-bolt scar on his forehead during the fatal confrontation.</summary>
+            <publish_date>
+                <date day="26" month="6" year="1997"/>
+            </publish_date>
+            <pages>352</pages>
+            <cover_type type="soft"/>
+            <rating>4.48</rating>
+            <genres>
+                <genre name="action"/>
+            </genres>
+            <publisher>BLOOMSBURY</publisher>
+            <language name = "english"/>
+            <authors>
+                <author>
+                    <author_name>J. K. Rowling</author_name>
+                    <biography>Although she writes under the pen name J.K. Rowling, pronounced like rolling, her name when her first Harry Potter book was published was simply Joanne Rowling. Anticipating that the target audience of young boys might not want to read a book written by a woman, her publishers demanded that she use two initials, rather than her full name. As she had no middle name, she chose K as the second initial of her pen name, from her paternal grandmother Kathleen Ada Bulgen Rowling. She calls herself Jo and has said, "No one ever called me 'Joanne' when I was young, unless they were angry." Following her marriage, she has sometimes used the name Joanne Murray when conducting personal business. During the Leveson Inquiry she gave evidence under the name of Joanne Kathleen Rowling. In a 2012 interview, Rowling noted that she no longer cared that people pronounced her name incorrectly.</biography>
+                    <publishes_book>22</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="31" month="6" year="1965"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>The Other Side of the Sky</book_name>
+            <price>25</price>
+            <cover_path path="..\images\covers\the_other_side_of_the_sky.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Prince North’s home is in the sky, in a gleaming city held aloft by intricate engines, powered by technology. Nimh is the living goddess of her people on the Surface, responsible for providing answers, direction—hope.
+
+                North’s and Nimh’s lives are entwined—though their hearts can never be. Linked by a terrifying prophecy and caught between duty and fate, they must choose between saving their people or succumbing to the bond that is forbidden between them.</summary>
+            <publish_date>
+                <date day="8" month="9" year="2020"/>
+            </publish_date>
+            <pages>432</pages>
+            <cover_type type="hard"/>
+            <rating>0</rating>
+            <genres>
+                <genre name="romantic"/>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Simon &amp; Schuster</publisher>
+            <language name = "english"/>
+            <authors>
+                <author>
+                    <author_name>Amie Kaufman</author_name>
+                    <biography>Amie Kaufman is a New York Times and internationally bestselling author of young adult fiction. Her multi-award winning work is slated for publication in over 30 countries, and is in development for film and TV. Raised in Australia and occasionally Ireland, Amie has degrees in history, literature, law and conflict resolution. She lives in Melbourne with her husband, their rescue dog, and an extremely large personal library.</biography>
+                    <publishes_book>28</publishes_book>
+                    <nationality>Australian</nationality>
+                    <birth_day>
+                        <date day="5" month="1" year="1976"/>
+                    </birth_day>
+                </author>
+                <author>
+                    <author_name>Meagan Spooner</author_name>
+                    <biography>New York Times bestselling author Meagan Spooner grew up reading and writing every spare moment of the day, while dreaming about life as an archaeologist, a marine biologist, an astronaut. She graduated from Hamilton College in New York with a degree in playwriting, and has spent several years since then living in Australia. She's traveled with her family all over the world to places like Egypt, South Africa, the Arctic, Greece, Antarctica, and the Galapagos, and there's a bit of every trip in every story she writes.</biography>
+                    <publishes_book>17</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="13" month="12" year="1988"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>1984</book_name>
+            <price>24</price>
+            <cover_path path="..\images\covers\1984.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Уинстън Смит работи в Министерството на истината в Лондон, град от държавата Океания. Неговото служебно задължение е да пренаписва новини от стари вестници, за да станат в съответствие с представяните от установената власт исторически факти, защото: „Който владее миналото, той владее и бъдещето. Който владее настоящето, владее миналото”.</summary>
+            <publish_date>
+                <date day="8" month="6" year="1949"/>
+            </publish_date>
+            <pages>316</pages>
+            <cover_type type="hard"/>
+            <rating>4.85</rating>
+            <genres>
+                <genre name="novel"/>
+            </genres>
+            <publisher>Фама+</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Джордж Оруел</author_name>
+                    <biography>Ерик Артър Блеър (на английски: Eric Arthur Blair; известен под псевдонима Джордж Оруел, на английски: George Orwell) е британски писател, журналист и поет.
+
+                        Той е сред най-уважаваните английски есеисти на ХХ век, талантлив и опитен романист. Творбите му са пропити с интелигентност, дълбока загриженост за социалната несправедливост, силна опозиция на тоталитаризма, страст към чистота на езика и вяра в демократичния социализъм. Най-популярен е с двата си романа, написани към края на краткия му живот: „Фермата на животните“ и „1984“.
+                    </biography><publishes_book>28</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="25" month="6" year="1903"/>
+                    </birth_day>
+                    <death_day>
+                        <date day="21" month="1" year="1950"/>
+                    </death_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Среднощно слънце (Здрач)</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\srednoshtno-slantse-zdrach-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Стефани Майър прави своето триумфално завръщане в света на сагата „Здрач“ с дългоочаквания и обвит в мистификации роман „Среднощно слънце“: емблематичната любовна история на Бела и Едуард, този път разказана от гледната точка на вампира.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>896</pages>
+            <cover_type type="hard"/>
+            <genres>
+                <genre name="fantasy"/>
+                <genre name="horror"/>
+                <genre name="romantic"/>
+            </genres>
+            <publisher>Егмонт</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Стефани Майър</author_name>
+                    <biography>Стефани Майър е родена на Бъдни вечер 1973 г. в Хартфорд, Кънектикът, в семейството на Стивън и Синди Морган. Има две сестри – Емили и Хейди – и трима братя – Сет, Пол и Джейкъб, като Стефани е второто от момичетата, а момчетата са по-малки от тях. Принадлежи към Църквата на Иисус Христос на светиите от последните дни (мормоните).</biography>
+                    <publishes_book>15</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="24" month="12" year="1973"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Силата на Сянката (Колелото на времето 4)</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\silata-na-syankata-koleloto-na-vremeto-4-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Пищна, интелигентно замислена сага. „Колелото на времето“ е едно страхотно забавление, наситено с уникални събития и герои.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>880</pages>
+            <cover_type type="soft"/>
+            <rating>4.53</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Бард</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Робърт Джордан</author_name>
+                    <biography>Джеймс Оливър Ригни-младши (на английски: James Oliver Rigney, Jr.), по-известен с псевдонима Робърт Джордан (на англ. Robert Jordan), е американски писател, най-известен с фентъзи поредицата „Колелото на времето“. Публикува и под псевдонимите Джаксън О'Райли (на англ. Jackson O'Reilly) и Рийган О`Нийл (на англ. Reagan O'Neal).</biography>
+                    <publishes_book>14</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="17" month="10" year="1948"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Змейова песен</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\zmeyova-pesen-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Злото се въздига, започва втората война в магьосническия свят и Хари Потър естествено е в центъра ѝ. Тайната на могъществото на Волдемор ще бъде разкрита и пътят за разгрома му - очертан. Хари ще трбява да реши дали ще го поеме, защото веднъж тръгнал по него, връщане назад няма.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>294</pages>
+            <cover_type type="soft"/>
+            <rating>4.66</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Gaiana Book and Art Studio</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Галина Димитрова</author_name>
+                    <biography>-</biography>
+                    <publishes_book>2</publishes_book>
+                    <nationality>Bulgarian</nationality>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Хари Потър и Философският камък</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\hari-potar-i-filosofskiyat-kamak-31.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Представете си, че до 10-та си години сте живели под стълбите при семейство, което ви мрази. И на 11-я си рожден ден откривате, че сте истински магьосник! Запознайте се Хари Потър... Едно удивително приключение е на път да започне.</summary>
+            <publish_date>
+                <date year="2016"/>
+            </publish_date>
+            <pages>280</pages>
+            <cover_type type="hard"/>
+            <rating>4.87</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Егмонт</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Дж. К. Роулинг</author_name>
+                    <biography>ДЖ. К. РОУЛИНГ е автор на поставилата множество рекорди и спечелила голям брой награди поредица за Хари Потър. Обичани от феновете по света, книгите ѝ са продадени в над 500 милиона екземпляра, преведени са на 80 езика и са превърнати в 8 хитови филма. Пише и три допълнителни издания в помощ на благотворителни кампании – „Куидичът през вековете“, „Фантастични животни и къде да ги намерим“ (в помощ на Comic Relief и Lumos) и „Приказките на барда Бийдъл“ (в помощ на Lumos), както и филмов сценарий, вдъхновен от „Фантастични животни и къде да ги намерим“. Работи и по пиесата Harry Potter and the Cursed Child Parts One and Two с премиера през лятото на 2016 г. в Уест Енд ъф Лондон. През 2012 г. Дж. К. Роулинг стартира Pottermore – дигитална платформа с нови истории за любимите герои на феновете. Дж. К. Роулинг е автор и на роман за възрастни, „Вакантен пост“, като пише и криминални романи под псевдонима Робърт Галбрейт. Носител е на Ордена на британската империя за заслуги в детската литература, на френския Орден на почтения легион и на наградата „Ханс Кристиан Андерсен“.</biography>
+                    <publishes_book>22</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="31" month="6" year="1965"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Хари Потър и Орденът на феникса</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\hari-potar-i-ordenat-na-feniksa-31.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Стената между вълшебния и мъгълския свят се пропуква. Смъртножадни нападат обикновени хора и внасят паника. Ордена на феникса се събира, за да даде отпор на Волдемор. Къде води зловещия коридор от сънищата Хари и какво гласи едно пророчество?</summary>
+            <publish_date>
+                <date year="2016"/>
+            </publish_date>
+            <pages>864</pages>
+            <cover_type type="hard"/>
+            <rating>4.53</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Егмонт</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Дж. К. Роулинг</author_name>
+                    <biography>ДЖ. К. РОУЛИНГ е автор на поставилата множество рекорди и спечелила голям брой награди поредица за Хари Потър. Обичани от феновете по света, книгите ѝ са продадени в над 500 милиона екземпляра, преведени са на 80 езика и са превърнати в 8 хитови филма. Пише и три допълнителни издания в помощ на благотворителни кампании – „Куидичът през вековете“, „Фантастични животни и къде да ги намерим“ (в помощ на Comic Relief и Lumos) и „Приказките на барда Бийдъл“ (в помощ на Lumos), както и филмов сценарий, вдъхновен от „Фантастични животни и къде да ги намерим“. Работи и по пиесата Harry Potter and the Cursed Child Parts One and Two с премиера през лятото на 2016 г. в Уест Енд ъф Лондон. През 2012 г. Дж. К. Роулинг стартира Pottermore – дигитална платформа с нови истории за любимите герои на феновете. Дж. К. Роулинг е автор и на роман за възрастни, „Вакантен пост“, като пише и криминални романи под псевдонима Робърт Галбрейт. Носител е на Ордена на британската империя за заслуги в детската литература, на френския Орден на почтения легион и на наградата „Ханс Кристиан Андерсен“.</biography>
+                    <publishes_book>22</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="31" month="6" year="1965"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Хари Потър и Нечистокръвния принц</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\hari-potar-i-nechistokravniya-prints-31.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Злото се въздига, започва втората война в магьосническия свят и Хари Потър естествено е в центъра ѝ. Тайната на могъществото на Волдемор ще бъде разкрита и пътят за разгрома му - очертан. Хари ще трбява да реши дали ще го поеме, защото веднъж тръгнал по него, връщане назад няма.</summary>
+            <publish_date>
+                <date year="2016"/>
+            </publish_date>
+            <pages>576</pages>
+            <cover_type type="hard"/>
+            <rating>4.66</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Егмонт</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Дж. К. Роулинг</author_name>
+                    <biography>ДЖ. К. РОУЛИНГ е автор на поставилата множество рекорди и спечелила голям брой награди поредица за Хари Потър. Обичани от феновете по света, книгите ѝ са продадени в над 500 милиона екземпляра, преведени са на 80 езика и са превърнати в 8 хитови филма. Пише и три допълнителни издания в помощ на благотворителни кампании – „Куидичът през вековете“, „Фантастични животни и къде да ги намерим“ (в помощ на Comic Relief и Lumos) и „Приказките на барда Бийдъл“ (в помощ на Lumos), както и филмов сценарий, вдъхновен от „Фантастични животни и къде да ги намерим“. Работи и по пиесата Harry Potter and the Cursed Child Parts One and Two с премиера през лятото на 2016 г. в Уест Енд ъф Лондон. През 2012 г. Дж. К. Роулинг стартира Pottermore – дигитална платформа с нови истории за любимите герои на феновете. Дж. К. Роулинг е автор и на роман за възрастни, „Вакантен пост“, като пише и криминални романи под псевдонима Робърт Галбрейт. Носител е на Ордена на британската империя за заслуги в детската литература, на френския Орден на почтения легион и на наградата „Ханс Кристиан Андерсен“.</biography>
+                    <publishes_book>22</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="31" month="6" year="1965"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Хари Потър и Затворникът от Азкабан</book_name>
+            <price>19.90</price>
+            <cover_path path="..\images\covers\hari-potar-i-zatvornikat-ot-azkaban-31.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>В третата книга неприятностите започват още преди началото на учебната година. Хари прави непозволена магия, преследва го жесток убиец, избягал от магьосническия затвор, появяват се ужасяващите дементори... Нещата се заплитат, а накрая се оказва, че нищо не такова, каквото изглежда.</summary>
+            <publish_date>
+                <date year="2016"/>
+            </publish_date>
+            <pages>384</pages>
+            <cover_type type="hard"/>
+            <rating>4.87</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Егмонт</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Дж. К. Роулинг</author_name>
+                    <biography>ДЖ. К. РОУЛИНГ е автор на поставилата множество рекорди и спечелила голям брой награди поредица за Хари Потър. Обичани от феновете по света, книгите ѝ са продадени в над 500 милиона екземпляра, преведени са на 80 езика и са превърнати в 8 хитови филма. Пише и три допълнителни издания в помощ на благотворителни кампании – „Куидичът през вековете“, „Фантастични животни и къде да ги намерим“ (в помощ на Comic Relief и Lumos) и „Приказките на барда Бийдъл“ (в помощ на Lumos), както и филмов сценарий, вдъхновен от „Фантастични животни и къде да ги намерим“. Работи и по пиесата Harry Potter and the Cursed Child Parts One and Two с премиера през лятото на 2016 г. в Уест Енд ъф Лондон. През 2012 г. Дж. К. Роулинг стартира Pottermore – дигитална платформа с нови истории за любимите герои на феновете. Дж. К. Роулинг е автор и на роман за възрастни, „Вакантен пост“, като пише и криминални романи под псевдонима Робърт Галбрейт. Носител е на Ордена на британската империя за заслуги в детската литература, на френския Орден на почтения легион и на наградата „Ханс Кристиан Андерсен“.</biography>
+                    <publishes_book>22</publishes_book>
+                    <nationality>British</nationality>
+                    <birth_day>
+                        <date day="31" month="6" year="1965"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Цар Плъх</book_name>
+            <price>20.00</price>
+            <cover_path path="..\images\covers\tsar-plah-31.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>
+                Страници, които надникват в живота на седем жени по време на войната - любими, майки и съпруги на мъжете в лагера. Може би навремето са решили, че не е подходящо един шокиращ, неприличащ на никой друг роман за борбата за оцеляване да включва също толкова шокиращи истории за жени.</summary>
+            <publish_date>
+                <date year="2009"/>
+            </publish_date>
+            <pages>498</pages>
+            <cover_type type="hard"/>
+            <genres>
+                <genre name="drama"/>
+                <genre name="history"/>
+                <genre name="modern"/>
+            </genres>
+            <publisher>Сиела</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Джеймс Клавел</author_name>
+                    <biography>Джеймс Клавел, роден Чарълз Едмънд дьо Мареск дьо Клавел, е британско-американски писател и филмов сценарист, известен най-вече със своите романи „Шогун“ и „Цар Плъх“ и филми като „Голямото бягство“ от 1963 г.</biography>
+                    <publishes_book>11</publishes_book>
+                    <nationality>Australian</nationality>
+                    <birth_day>
+                        <date day="10" month="10" year="1921"/>
+                    </birth_day>
+                    <death_day>
+                        <date day="7" month="9" year="1994"/>
+                    </death_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Fire and Blood</book_name>
+            <price>20.90</price>
+            <cover_path path="..\images\covers\fire-and-blood-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Centuries before the events of A Game of Thrones, House Targaryen - the only family of dragonlords to survive the Doom of Valyria - took up residence on Dragonstone. Fire and Blood begins their tale with the legendary Aegon the Conqueror.</summary>
+            <publish_date>
+                <date year="2020"/>
+            </publish_date>
+            <pages>752</pages>
+            <cover_type type="soft"/>
+            <rating>4.98</rating>
+            <genres>
+                <genre name="fantasy"/>
+            </genres>
+            <publisher>Bantam</publisher>
+            <language name = "english"/>
+            <authors>
+                <author>
+                    <author_name>George R. R. Martin</author_name>
+                    <biography>George Raymond Richard Martin[1] (born George Raymond Martin; September 20, 1948),[2] also known as GRRM,[3] is an American novelist and short story writer, screenwriter, and television producer. He is the author of the series of epic fantasy novels A Song of Ice and Fire, which was adapted into the Emmy Award-winning HBO series Game of Thrones (2011–2019).</biography>
+                    <publishes_book>12</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="20" month="9" year="1948"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+    <book>
+        <book_header>
+            <book_name>Крадец в сенките</book_name>
+            <price>4.80</price>
+            <cover_path path="..\images\covers\kradets-v-senkite-30.jpg"/>
+        </book_header>
+        <book_details>
+            <summary>Поредицата "Тайните на Мейдън Лейн" притежава едно особено обаяние... чудото на любовта, вплетено ведно със страст, неповторими сюжетни линии и незабравими образи.</summary>
+            <publish_date>
+                <date year="2021"/>
+            </publish_date>
+            <pages>304</pages>
+            <cover_type type="soft"/>
+            <rating>4.66</rating>
+            <genres>
+                <genre name="romantic"/>
+            </genres>
+            <publisher>СББ Медиа</publisher>
+            <language name = "bulgarian"/>
+            <authors>
+                <author>
+                    <author_name>Елизабет Хойт</author_name>
+                    <biography>Преведено от английски-Елизабет Хойт е името на Нанси М. Фини. Хойт е автор на бестселъри в Ню Йорк Таймс за исторически романс. Тя също пише съвременна романтика под името Джулия Харпър. Сега тя живее в централен Илинойс със съпруга си и двете си деца.</biography>
+                    <publishes_book>7</publishes_book>
+                    <nationality>American</nationality>
+                    <birth_day>
+                        <date day="21" month="11" year="1970"/>
+                    </birth_day>
+                </author>
+            </authors>
+        </book_details>
+    </book>
+
+</books>

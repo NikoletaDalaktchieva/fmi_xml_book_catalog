@@ -1,0 +1,45 @@
+
+      Основни данни:
+        
+        Име: Harry Potter and the Philosopher's Stone
+        Цена: 18.90
+
+      Детайли:
+        
+        Език: 
+        Стриници:352
+        Дата на публикуване: 1997.6.26
+        Тип корица: soft
+        Резюме: Ten-year-old Harry Potter is an orphan who lives in the fictional London suburb of Little Whinging, Surrey, with the Dursleys: his uncaring Aunt Petunia, loathsome Uncle Vernon, and spoiled cousin Dudley. The Dursleys barely tolerate Harry, and Dudley bullies him. One day Harry is astonished to receive a letter addressed to him in the cupboard under the stairs (where he sleeps). Before he can open the letter, however, Uncle Vernon takes it. Letters for Harry subsequently arrive each day, in increasing numbers, but Uncle Vernon tears them all up, and finally, in an attempt to escape the missives, the Dursleys go to a miserable shack on a small island. On Harry’s 11th birthday, a giant named Hagrid arrives and reveals that Harry is a wizard and that he has been accepted at the Hogwarts School of Witchcraft and Wizardry. He also sheds light on Harry’s past, informing the boy that his parents, a wizard and a witch, were killed by the evil wizard Voldemort and that Harry acquired the lightning-bolt scar on his forehead during the fatal confrontation.
+____________________________________________________________________________________________________
+    
+      Основни данни:
+        
+        Име: The Other Side of the Sky
+        Цена: 25
+
+      Детайли:
+        
+        Език: 
+        Стриници:432
+        Дата на публикуване: 2020.9.8
+        Тип корица: hard
+        Резюме: Prince North’s home is in the sky, in a gleaming city held aloft by intricate engines, powered by technology. Nimh is the living goddess of her people on the Surface, responsible for providing answers, direction—hope.
+
+                North’s and Nimh’s lives are entwined—though their hearts can never be. Linked by a terrifying prophecy and caught between duty and fate, they must choose between saving their people or succumbing to the bond that is forbidden between them.
+____________________________________________________________________________________________________
+    
+      Основни данни:
+        
+        Име: 1984
+        Цена: 24
+
+      Детайли:
+        
+        Език: 
+        Стриници:316
+        Дата на публикуване: 1949.6.8
+        Тип корица: hard
+        Резюме: Уинстън Смит работи в Министерството на истината в Лондон, град от държавата Океания. Неговото служебно задължение е да пренаписва новини от стари вестници, за да станат в съответствие с представяните от установената власт исторически факти, защото: „Който владее миналото, той владее и бъдещето. Който владее настоящето, владее миналото”.
+____________________________________________________________________________________________________
+    

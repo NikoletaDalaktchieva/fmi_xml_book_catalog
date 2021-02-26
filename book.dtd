@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!ELEMENT books (book*)>
+  <!ELEMENT book (book_header, book_details)>
+
+  <!--BOOK HEADER -->
+  <!ELEMENT book_header (book_name, price, cover_path)>
+  <!ELEMENT book_name (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ELEMENT cover_path  EMPTY>
+  <!ATTLIST cover_path path CDATA #IMPLIED>
+
+  <!--BOOK DETAILS -->
+  <!ELEMENT book_details (summary, publish_date?, pages, cover_type, rating?, genres, publisher, language, authors  )>
+  <!ELEMENT summary (#PCDATA)>
+  <!ELEMENT publish_date (date)>
+  <!ELEMENT pages (#PCDATA)>
+  <!ELEMENT cover_type EMPTY>
+  <!ATTLIST cover_type type (soft | hard) #REQUIRED>
+  <!ELEMENT rating (#PCDATA)>
+  <!ELEMENT genres (genre+)>
+  <!ELEMENT genre EMPTY>
+  <!ATTLIST genre name (novel|action|comedy|drama|family|foreign|horror|musical|romantic|fantasy|history|modern|other) #REQUIRED>
+  <!ELEMENT language EMPTY>
+  <!ATTLIST language name (bulgarian | english | spanish) #REQUIRED>
+  <!ELEMENT publisher (#PCDATA)>
+
+  <!--AUTHORS INFO -->
+  <!ELEMENT authors (author*)>
+  <!ELEMENT author (author_name, biography?, publishes_book?, nationality?, birth_day?, death_day?)>
+  <!ELEMENT author_name (#PCDATA)>
+  <!ELEMENT biography (#PCDATA)>
+  <!ELEMENT publishes_book (#PCDATA)>
+  <!ELEMENT nationality (#PCDATA)>
+  <!ELEMENT birth_day (date)>
+  <!ELEMENT death_day (date)>
+  <!ELEMENT date EMPTY>
+  <!ATTLIST date day CDATA #IMPLIED>
+  <!ATTLIST date month CDATA #IMPLIED>
+  <!ATTLIST date year CDATA #IMPLIED>
+ 

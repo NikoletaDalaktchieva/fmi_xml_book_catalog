@@ -1,0 +1,11 @@
+img {
+  width: 100%;
+  height: auto;
+}
+.book{
+  border: 0.1rem solid #ccc;
+  width: 11rem;
+  height:20rem;
+  margin: 0.5rem;
+  text-align: center;
+}
